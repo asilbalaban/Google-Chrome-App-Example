@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Rastgele!",
+    "description": "Rastgele sayesinde tarafsız kura çekebilirsiniz.",
+    "version": "1.1",
+    "icons": {
+        "128": "icon.png"
+    },
+    "app": {
+        "urls": [
+            "http://apps.asil.me/rastgele/"
+        ],
+        "launch": {
+            "web_url": "http://apps.asil.me/rastgele/"
+        }
+    },
+    "permissions": [
+        "unlimitedStorage",
+        "notifications"
+    ]
+}
